@@ -1,0 +1,28 @@
+body, html {
+	margin:0px;
+	padding:0px;
+	height: 100%;
+	width: 100%;
+}
+.relative{ position: relative; }
+.absolute{ position: absolute; }
+.fl-left{ float: left; }
+.fl-right{ float: right; }
+.full-width{ width: 100%; }
+.clear{clear:both;}
+
+main{
+	display: block;
+	min-height: 800px;
+	padding-bottom: 4rem;
+	
+}
+
+.display-table{
+	display: table;
+	width: 100%;
+}
+.centered{
+	text-align: center;
+	float: none;
+}

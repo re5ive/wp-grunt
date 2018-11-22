@@ -1,0 +1,23 @@
+{
+  "name": "PTD FORREYGALLAND",
+  "version": "1.0.0",
+  "description": "The best WordPress theme ever made!",
+  "author": {
+    "name": "Kamaal Aboothalib",
+    "website": "http://kamaal.me"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.3",
+    "bootstrap-select": "~1.7.3",
+    "fastclick": "~1.0.6",
+    "flickity": "~1.1.0",
+    "font-awesome": "^4.3.0",
+    "imagesloaded": "~3.1.8",
+    "modernizer": "~2.8.2",
+    "photoswipe": "~4.0.8",
+    "slick-carousel": "~1.5.8",
+    "slick.js": "~1.5.5",
+    "typeahead.js": "~0.11.1",
+    "velocity": "~1.2.2"
+  }
+}
